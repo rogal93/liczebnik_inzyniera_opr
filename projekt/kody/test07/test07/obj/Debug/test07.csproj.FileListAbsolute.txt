@@ -1,0 +1,18 @@
+c:\users\damian\documents\visual studio 2013\Projects\test07\test07\bin\Debug\test07.exe.config
+c:\users\damian\documents\visual studio 2013\Projects\test07\test07\bin\Debug\test07.exe
+c:\users\damian\documents\visual studio 2013\Projects\test07\test07\bin\Debug\test07.pdb
+c:\users\damian\documents\visual studio 2013\Projects\test07\test07\obj\Debug\test07.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2013\Projects\test07\test07\obj\Debug\test07.exe
+c:\users\damian\documents\visual studio 2013\Projects\test07\test07\obj\Debug\test07.pdb
+F:\IO\kody\test07\test07\bin\Debug\test07.exe.config
+F:\IO\kody\test07\test07\obj\Debug\test07.exe
+F:\IO\kody\test07\test07\obj\Debug\test07.pdb
+F:\IO\kody\test07\test07\bin\Debug\test07.exe
+F:\IO\kody\test07\test07\bin\Debug\test07.pdb
+F:\IO\kody\test07\test07\obj\Debug\test07.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Liczebnik\test07\test07\bin\Debug\test07.exe.config
+C:\Users\Damian\Desktop\Liczebnik\test07\test07\obj\Debug\test07.exe
+C:\Users\Damian\Desktop\Liczebnik\test07\test07\obj\Debug\test07.pdb
+C:\Users\Damian\Desktop\Liczebnik\test07\test07\bin\Debug\test07.exe
+C:\Users\Damian\Desktop\Liczebnik\test07\test07\bin\Debug\test07.pdb
+C:\Users\Damian\Desktop\Liczebnik\test07\test07\obj\Debug\test07.csprojResolveAssemblyReference.cache

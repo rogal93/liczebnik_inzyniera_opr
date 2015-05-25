@@ -1,0 +1,24 @@
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\sortowanie ilościowe\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe.config
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\sortowanie ilościowe\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\sortowanie ilościowe\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.pdb
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\sortowanie ilościowe\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\sortowanie ilościowe\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.exe
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\sortowanie ilościowe\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.pdb
+D:\Ściągnięte\sortowanie ilościowe\sortowanie ilościowe\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe.config
+D:\Ściągnięte\sortowanie ilościowe\sortowanie ilościowe\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.exe
+D:\Ściągnięte\sortowanie ilościowe\sortowanie ilościowe\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.pdb
+D:\Ściągnięte\sortowanie ilościowe\sortowanie ilościowe\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe
+D:\Ściągnięte\sortowanie ilościowe\sortowanie ilościowe\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.pdb
+D:\Ściągnięte\sortowanie ilościowe\sortowanie ilościowe\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\test02\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe.config
+C:\Users\Hubert\Desktop\test02\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.exe
+C:\Users\Hubert\Desktop\test02\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.pdb
+C:\Users\Hubert\Desktop\test02\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe
+C:\Users\Hubert\Desktop\test02\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.pdb
+C:\Users\Hubert\Desktop\test02\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.csprojResolveAssemblyReference.cache
+D:\Ściągnięte\zamierzone\test02\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe.config
+D:\Ściągnięte\zamierzone\test02\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.exe
+D:\Ściągnięte\zamierzone\test02\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.pdb
+D:\Ściągnięte\zamierzone\test02\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.exe
+D:\Ściągnięte\zamierzone\test02\sortowanie ilościowe\bin\Debug\sortowanie ilościowe.pdb
+D:\Ściągnięte\zamierzone\test02\sortowanie ilościowe\obj\Debug\sortowanie ilościowe.csprojResolveAssemblyReference.cache

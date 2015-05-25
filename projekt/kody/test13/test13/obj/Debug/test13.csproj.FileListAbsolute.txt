@@ -1,0 +1,11 @@
+c:\users\damian\documents\visual studio 2013\Projects\test13\test13\bin\Debug\test13.exe.config
+c:\users\damian\documents\visual studio 2013\Projects\test13\test13\bin\Debug\test13.exe
+c:\users\damian\documents\visual studio 2013\Projects\test13\test13\bin\Debug\test13.pdb
+c:\users\damian\documents\visual studio 2013\Projects\test13\test13\obj\Debug\test13.exe
+c:\users\damian\documents\visual studio 2013\Projects\test13\test13\obj\Debug\test13.pdb
+C:\Users\Damian\Desktop\Liczebnik\test13\test13\bin\Debug\test13.exe.config
+C:\Users\Damian\Desktop\Liczebnik\test13\test13\obj\Debug\test13.exe
+C:\Users\Damian\Desktop\Liczebnik\test13\test13\obj\Debug\test13.pdb
+C:\Users\Damian\Desktop\Liczebnik\test13\test13\bin\Debug\test13.exe
+C:\Users\Damian\Desktop\Liczebnik\test13\test13\bin\Debug\test13.pdb
+C:\Users\Damian\Desktop\Liczebnik\test13\test13\obj\Debug\test13.csprojResolveAssemblyReference.cache

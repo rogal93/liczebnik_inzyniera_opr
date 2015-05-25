@@ -1,0 +1,16 @@
+c:\users\damian\documents\visual studio 2013\Projects\test04\test04\bin\Debug\test04.exe.config
+c:\users\damian\documents\visual studio 2013\Projects\test04\test04\bin\Debug\test04.exe
+c:\users\damian\documents\visual studio 2013\Projects\test04\test04\bin\Debug\test04.pdb
+c:\users\damian\documents\visual studio 2013\Projects\test04\test04\obj\Debug\test04.exe
+c:\users\damian\documents\visual studio 2013\Projects\test04\test04\obj\Debug\test04.pdb
+C:\Users\Hubert\Desktop\test04\test04\bin\Debug\test04.exe.config
+C:\Users\Hubert\Desktop\test04\test04\obj\Debug\test04.exe
+C:\Users\Hubert\Desktop\test04\test04\obj\Debug\test04.pdb
+C:\Users\Hubert\Desktop\test04\test04\bin\Debug\test04.exe
+C:\Users\Hubert\Desktop\test04\test04\bin\Debug\test04.pdb
+D:\Ściągnięte\zamierzone\test04\test04\bin\Debug\test04.exe.config
+D:\Ściągnięte\zamierzone\test04\test04\obj\Debug\test04.exe
+D:\Ściągnięte\zamierzone\test04\test04\obj\Debug\test04.pdb
+D:\Ściągnięte\zamierzone\test04\test04\bin\Debug\test04.exe
+D:\Ściągnięte\zamierzone\test04\test04\bin\Debug\test04.pdb
+D:\Ściągnięte\zamierzone\test04\test04\obj\Debug\test04.csprojResolveAssemblyReference.cache

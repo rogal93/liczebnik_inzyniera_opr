@@ -1,0 +1,8 @@
+c:\users\damian\documents\visual studio 2013\Projects\test08\test08\bin\Debug\test08.exe.config
+c:\users\damian\documents\visual studio 2013\Projects\test08\test08\bin\Debug\test08.exe
+c:\users\damian\documents\visual studio 2013\Projects\test08\test08\bin\Debug\test08.pdb
+c:\users\damian\documents\visual studio 2013\Projects\test08\test08\obj\Debug\test08.exe
+c:\users\damian\documents\visual studio 2013\Projects\test08\test08\obj\Debug\test08.pdb
+C:\Users\Damian\Desktop\Liczebnik\test08\test08\bin\Debug\test08.exe.config
+C:\Users\Damian\Desktop\Liczebnik\test08\test08\obj\Debug\test08.exe
+C:\Users\Damian\Desktop\Liczebnik\test08\test08\obj\Debug\test08.pdb

@@ -1,0 +1,18 @@
+c:\users\damian\documents\visual studio 2013\Projects\test05\test05\bin\Debug\test05.exe.config
+c:\users\damian\documents\visual studio 2013\Projects\test05\test05\bin\Debug\test05.exe
+c:\users\damian\documents\visual studio 2013\Projects\test05\test05\bin\Debug\test05.pdb
+c:\users\damian\documents\visual studio 2013\Projects\test05\test05\obj\Debug\test05.exe
+c:\users\damian\documents\visual studio 2013\Projects\test05\test05\obj\Debug\test05.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\test05\test05\obj\Debug\test05.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\test05\test05\bin\Debug\test05.exe.config
+C:\Users\Hubert\Desktop\test05\test05\obj\Debug\test05.exe
+C:\Users\Hubert\Desktop\test05\test05\obj\Debug\test05.pdb
+C:\Users\Hubert\Desktop\test05\test05\bin\Debug\test05.exe
+C:\Users\Hubert\Desktop\test05\test05\bin\Debug\test05.pdb
+C:\Users\Hubert\Desktop\test05\test05\obj\Debug\test05.csprojResolveAssemblyReference.cache
+D:\Ściągnięte\zamierzone\test05\test05\bin\Debug\test05.exe.config
+D:\Ściągnięte\zamierzone\test05\test05\obj\Debug\test05.exe
+D:\Ściągnięte\zamierzone\test05\test05\obj\Debug\test05.pdb
+D:\Ściągnięte\zamierzone\test05\test05\bin\Debug\test05.exe
+D:\Ściągnięte\zamierzone\test05\test05\bin\Debug\test05.pdb
+D:\Ściągnięte\zamierzone\test05\test05\obj\Debug\test05.csprojResolveAssemblyReference.cache

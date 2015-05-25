@@ -1,0 +1,15 @@
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\2z\2z\bin\Debug\2z.exe.config
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\2z\2z\bin\Debug\2z.exe
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\2z\2z\bin\Debug\2z.pdb
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\2z\2z\obj\Debug\2z.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\2z\2z\obj\Debug\2z.exe
+C:\Users\Hubert\Desktop\Pd 9\4.12.13\2z\2z\obj\Debug\2z.pdb
+D:\Ściągnięte\testy 2z 8nz 9nz (1)\2z\2z\bin\Debug\2z.exe.config
+D:\Ściągnięte\testy 2z 8nz 9nz (1)\2z\2z\obj\Debug\2z.exe
+D:\Ściągnięte\testy 2z 8nz 9nz (1)\2z\2z\obj\Debug\2z.pdb
+D:\Ściągnięte\testy 2z 8nz 9nz (1)\2z\2z\bin\Debug\2z.exe
+D:\Ściągnięte\testy 2z 8nz 9nz (1)\2z\2z\bin\Debug\2z.pdb
+D:\Ściągnięte\testy 2z 8nz 9nz (1)\2z\2z\obj\Debug\2z.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\test03\2z\bin\Debug\2z.exe.config
+C:\Users\Hubert\Desktop\test03\2z\obj\Debug\2z.exe
+C:\Users\Hubert\Desktop\test03\2z\obj\Debug\2z.pdb

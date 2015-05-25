@@ -1,0 +1,18 @@
+c:\users\damian\documents\visual studio 2013\Projects\test06\test06\bin\Debug\test06.exe.config
+c:\users\damian\documents\visual studio 2013\Projects\test06\test06\bin\Debug\test06.exe
+c:\users\damian\documents\visual studio 2013\Projects\test06\test06\bin\Debug\test06.pdb
+c:\users\damian\documents\visual studio 2013\Projects\test06\test06\obj\Debug\test06.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2013\Projects\test06\test06\obj\Debug\test06.exe
+c:\users\damian\documents\visual studio 2013\Projects\test06\test06\obj\Debug\test06.pdb
+C:\Users\Hubert\Desktop\test06\test06\bin\Debug\test06.exe.config
+C:\Users\Hubert\Desktop\test06\test06\obj\Debug\test06.exe
+C:\Users\Hubert\Desktop\test06\test06\obj\Debug\test06.pdb
+C:\Users\Hubert\Desktop\test06\test06\bin\Debug\test06.exe
+C:\Users\Hubert\Desktop\test06\test06\bin\Debug\test06.pdb
+C:\Users\Hubert\Desktop\test06\test06\obj\Debug\test06.csprojResolveAssemblyReference.cache
+D:\Ściągnięte\zamierzone\test06\test06\bin\Debug\test06.exe.config
+D:\Ściągnięte\zamierzone\test06\test06\obj\Debug\test06.exe
+D:\Ściągnięte\zamierzone\test06\test06\obj\Debug\test06.pdb
+D:\Ściągnięte\zamierzone\test06\test06\bin\Debug\test06.exe
+D:\Ściągnięte\zamierzone\test06\test06\bin\Debug\test06.pdb
+D:\Ściągnięte\zamierzone\test06\test06\obj\Debug\test06.csprojResolveAssemblyReference.cache
